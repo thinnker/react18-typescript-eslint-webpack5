@@ -4,7 +4,8 @@
   "scripts": {
     "start": "webpack serve --config webpack.dev.config.ts",
     "build": "webpack --config webpack.prod.config.ts",
-    "lint": "eslint --ext .ts,.tsx,.js,.jsx src"
+    "lint": "eslint --ext .ts,.tsx,.js,.jsx src",
+    "serve:prod": "npx serve ./dist"
   },
   "dependencies": {
     "html-webpack-plugin": "^5.5.0",
