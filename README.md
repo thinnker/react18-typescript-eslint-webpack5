@@ -1,6 +1,6 @@
-# React 18.1 Typescript, Webpack 5 Starter Kit
+# React 18.2 Typescript, Webpack 5 Starter Kit
 
-**Webpack 5** template for a **React 18.1** app with **Typescript 4.6** and **ESLint 8**.
+**Webpack 5** template for a **React 18.2** app with **Typescript 4.6** and **ESLint 8**.
 
 This is a **production-ready** base/template to start rapid development on your next React project.
 

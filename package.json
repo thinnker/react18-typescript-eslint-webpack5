@@ -1,6 +1,6 @@
 {
   "name": "react18-typescript-eslint-webpack5",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "start": "webpack serve --config webpack.dev.config.ts",
     "build": "webpack --config webpack.prod.config.ts",
@@ -8,12 +8,11 @@
     "serve:prod": "npx serve ./dist"
   },
   "dependencies": {
-    "html-webpack-plugin": "^5.5.0",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "save-dev": "0.0.1-security"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
     "@babel/core": "^7.17.10",
     "@babel/plugin-transform-runtime": "^7.17.10",
     "@babel/preset-env": "^7.17.10",
